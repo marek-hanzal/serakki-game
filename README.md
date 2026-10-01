@@ -1,12 +1,20 @@
-# Serakki
+<p align="center">
+  <a href="https://serakki.dev/">
+    <img src="assets/hero.webp" alt="Serakki" width="640" />
+  </a>
+</p>
 
-Public distribution repository for [Serakki](https://serakki.dev/).
+<p align="center"><strong>A little world. A lot of “what happens if…?”</strong></p>
 
-The website is published from the `gh-pages` branch. That branch contains only
-compiled static files; application and website source are maintained separately.
+Welcome to **Serakki** — a cozy offline game about curiosity, odd combinations,
+and accidentally creating more work for yourself.
 
-The initial website publication preserves the GitHub Pages artifact from
-`marek-hanzal/serakki` workflow run `36886228193`, source commit
-`0be13831f91eb53668f2779984dd6d9671838cde`.
+Chop wood. Build a workshop. Make something useful. Set something on fire.
+We’re calling that last one research.
 
-Demo releases will be added separately.
+Want to change the rules? The **Editor** comes with the game.
+Your world, your wonderfully questionable decisions.
+
+**[Come on in →](https://serakki.dev/)** · [Meet the game](https://serakki.dev/game/) · [Make it yours](https://serakki.dev/editor/)
+
+Take your time. The purple cow can wait. 💜
