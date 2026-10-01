@@ -1,1 +1,0 @@
-import{d as e}from"./index-CmjU9BhS.js";import{t}from"./BoardDemo-Cr6z1jyn.js";var n=e();function r(){return(0,n.jsx)(t,{demo:`campfire`,poster:`/media/board-demo/poster.webp`,alt:`Firewood, flint and steel, a campfire, and paper in Serakki.`})}export{r as H0};

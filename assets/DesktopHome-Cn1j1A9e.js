@@ -1,0 +1,1 @@
+import{d as e}from"./index-BDKWG3xJ.js";import"./EdgeEasterEggPool-C_I4kGi2.js";import{t}from"./BoardDemo-4X2rI2RE.js";import"./Home-Bkx02X1O.js";var n=e();function r(){return(0,n.jsx)(t,{demo:`tools`,poster:`/media/board-demo/tools-poster.webp`,alt:`Scissors beside a dirty brush and fresh bristles.`})}export{r as H1};

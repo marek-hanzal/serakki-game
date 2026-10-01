@@ -1,1 +1,0 @@
-import{a as e,d as t}from"./index-CmjU9BhS.js";import"./@routes-BJMJGSIb.js";var n=t();function r(){let t=e();return(0,n.jsx)(`div`,{className:`editor-demo`,"data-ui":`EditorDemo`,children:t&&(0,n.jsx)(`iframe`,{src:`/editor-demo/`,title:`Try the Serakki Editor`,loading:`lazy`,width:`1280`,height:`800`})})}function i(){return(0,n.jsx)(r,{})}export{i as H3};

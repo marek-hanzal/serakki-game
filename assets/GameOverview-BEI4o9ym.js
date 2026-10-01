@@ -1,0 +1,1 @@
+import{d as e}from"./index-BDKWG3xJ.js";import{t}from"./BoardDemo-4X2rI2RE.js";var n=e();function r(){return(0,n.jsx)(t,{demo:`water`,poster:`/media/board-demo/water-poster.webp`,alt:`A bucket of water and an empty well in Serakki.`})}export{r as H2};

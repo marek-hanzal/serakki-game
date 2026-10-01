@@ -1,1 +1,0 @@
-import{d as e}from"./index-CmjU9BhS.js";import"./@routes-BJMJGSIb.js";import{t}from"./ProductionDemo-CMBRhDmt.js";var n=e();function r({healBearFn:e,resetBearFn:r}){return(0,n.jsx)(t,{showPreview:!1,healing:!0,onCureFn:e,onRestartFn:r})}export{r as H2};

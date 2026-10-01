@@ -1,0 +1,1 @@
+import{d as e}from"./index-BDKWG3xJ.js";import{t}from"./ProductionDemo-hN4U8RCq.js";var n=e();function r({autoStartProduction:e}){return(0,n.jsx)(t,{autoStart:e})}export{r as H4};

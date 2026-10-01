@@ -1,0 +1,1 @@
+import{d as e}from"./index-BDKWG3xJ.js";import"./EdgeEasterEggPool-C_I4kGi2.js";import{t}from"./ProductionDemo-hN4U8RCq.js";import"./Home-Bkx02X1O.js";var n=e();function r({healBearFn:e,resetBearFn:r}){return(0,n.jsx)(t,{showPreview:!1,healing:!0,onCureFn:e,onRestartFn:r})}export{r as H2};

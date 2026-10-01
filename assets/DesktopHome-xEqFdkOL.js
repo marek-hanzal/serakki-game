@@ -1,0 +1,1 @@
+import{d as e}from"./index-BDKWG3xJ.js";import"./EdgeEasterEggPool-C_I4kGi2.js";import{t}from"./BoardDemo-4X2rI2RE.js";import"./Home-Bkx02X1O.js";var n=e();function r(){return(0,n.jsx)(t,{demo:`campfire`,poster:`/media/board-demo/poster.webp`,alt:`Firewood, flint and steel, paper and an extinguished campfire, ready to experiment with.`})}export{r as H0};

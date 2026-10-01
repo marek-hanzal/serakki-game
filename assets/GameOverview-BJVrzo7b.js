@@ -1,0 +1,1 @@
+import{d as e}from"./index-BDKWG3xJ.js";import{t}from"./BoardDemo-4X2rI2RE.js";var n=e();function r(){return(0,n.jsx)(t,{demo:`tools`,poster:`/media/board-demo/tools-poster.webp`,alt:`Scissors, a dirty scrubbing brush, and boar bristles arranged side by side in Serakki.`})}export{r as H1};

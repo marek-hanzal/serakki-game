@@ -1,1 +1,0 @@
-import{d as e}from"./index-CmjU9BhS.js";import{t}from"./ProductionDemo-CMBRhDmt.js";var n=e();function r({autoStartProduction:e}){return(0,n.jsx)(t,{autoStart:e})}export{r as H4};
