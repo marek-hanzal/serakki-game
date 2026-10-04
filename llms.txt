@@ -1,8 +1,8 @@
 # Serakki
 
-> Serakki is an offline game of unlikely combinations, with one rich world, DLC and a World Editor. Start with the free Serakki Mini.
+> Merge, craft, build and discover unexpected combinations. Download free Serakki Mini for Windows, macOS and Linux. The full game is in development.
 
-This file indexes the website's native Markdown references. The full game is in development. Desktop Editor MCP capabilities are separate from the browser previews.
+This file indexes the homepage's Markdown reference and native legal documents. The full game is in development. Desktop Editor MCP capabilities are separate from the browser previews.
 
 ## Product
 
@@ -10,7 +10,7 @@ This file indexes the website's native Markdown references. The full game is in 
 
 ## Downloads
 
-By downloading Serakki Mini, you agree to the license. Read it before downloading. [License · 2026-10-04](https://serakki.dev/license/index.md).
+By downloading Serakki Mini, you agree to the license. Read it before downloading. [License · 2026-10-04](https://serakki.dev/license/).
 
 - [Serakki Mini for Windows](https://github.com/marek-hanzal/serakki-game/releases/latest/download/serakki-mini-windows-x64.exe): EXE installer.
 - [Serakki Mini for Mac](https://github.com/marek-hanzal/serakki-game/releases/latest/download/serakki-mini-macos-arm64.dmg): DMG · Apple Silicon.
@@ -18,6 +18,6 @@ By downloading Serakki Mini, you agree to the license. Read it before downloadin
 
 ## Optional
 
-- [Complete website reference](https://serakki.dev/llms-full.txt): Homepage and both legal pages in one text response.
-- [License](https://serakki.dev/license/index.md): Application end user license agreement.
-- [Privacy Policy](https://serakki.dev/privacy/index.md): No tracking or telemetry. Local diagnostics and voluntary support explained.
+- [Full homepage reference](https://serakki.dev/llms-full.txt): The homepage's factual text; legal documents are linked separately.
+- [License](https://serakki.dev/license/): Application end user license agreement, available as native HTML.
+- [Privacy Policy](https://serakki.dev/privacy/): No tracking or telemetry. Local diagnostics and voluntary support explained. Available as native HTML.

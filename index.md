@@ -1,6 +1,6 @@
 # Serakki
 
-> Serakki is an offline game of unlikely combinations, with one rich world, DLC and a World Editor. Start with the free Serakki Mini.
+> Merge, craft, build and discover unexpected combinations. Download free Serakki Mini for Windows, macOS and Linux. The full game is in development.
 
 Canonical page: https://serakki.dev/
 
@@ -16,7 +16,7 @@ Serakki is an offline, data-driven economy game for desktop. Combine items on a 
 
 Serakki Mini is free to download for Windows, Mac and Linux. It plays offline and does not include the Editor.
 
-Mini is a complete, compact game with its own content and community worlds. Serakki goes bigger, with the original Serakki world and the Editor.
+Mini is a complete, compact offline merge and crafting game with its own content and community worlds. Serakki goes bigger, with the original Serakki world and the Editor.
 
 ## The full Serakki game
 
@@ -36,7 +36,7 @@ Creatures, recipes, art and music. Give them your rules.
 
 The Board plays alongside your edits. Change a rule. Try again.
 
-Share your world with anyone using Serakki or Serakki Mini.
+Share your worlds with other players. Mini-compatible worlds run in Serakki Mini; other worlds require the full Serakki game.
 
 ## Agents and MCP
 
@@ -54,7 +54,7 @@ MCP connections belong to the desktop Editor. The website's Editor preview uses 
 
 ## Download Serakki Mini
 
-By downloading Serakki Mini, you agree to the license. Read it before downloading. [License · 2026-10-04](https://serakki.dev/license/index.md).
+By downloading Serakki Mini, you agree to the license. Read it before downloading. [License · 2026-10-04](https://serakki.dev/license/).
 
 - [Windows: EXE installer](https://github.com/marek-hanzal/serakki-game/releases/latest/download/serakki-mini-windows-x64.exe)
 - [Windows: Get the ZIP instead](https://github.com/marek-hanzal/serakki-game/releases/latest/download/serakki-mini-windows-x64.zip)
@@ -77,5 +77,5 @@ Created by Marek Hanzal.
 
 ## Legal pages
 
-- [License](https://serakki.dev/license/index.md): Application end user license agreement.
-- [Privacy Policy](https://serakki.dev/privacy/index.md): No tracking or telemetry. Local diagnostics and voluntary support explained.
+- [License](https://serakki.dev/license/): Application end user license agreement.
+- [Privacy Policy](https://serakki.dev/privacy/): No tracking or telemetry. Local diagnostics and voluntary support explained.

@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DE3RlOCf.js";import{t}from"./BoardDemo-CPXTr13J.js";var n=e();function r(){return(0,n.jsx)(t,{demo:`gameplay`})}export{r as H0};
