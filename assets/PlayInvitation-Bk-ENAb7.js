@@ -1,0 +1,1 @@
+import{k as e}from"./index-CHlWqjJn.js";import{t}from"./BoardDemo-CeR2Rlqx.js";var n=e();function r(){return(0,n.jsx)(t,{demo:`home-02`})}export{r as H1};
