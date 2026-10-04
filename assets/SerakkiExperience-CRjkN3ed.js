@@ -1,0 +1,1 @@
+import{k as e}from"./index-Cwc1qbhY.js";import{t}from"./BoardDemo-0NnHdQYh.js";var n=e();function r(){return(0,n.jsx)(t,{demo:`gameplay`})}export{r as H0};

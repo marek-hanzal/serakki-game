@@ -1,0 +1,23 @@
+# Serakki
+
+> Serakki is an offline game of unlikely combinations, with one rich world, DLC and a World Editor. Start with the free Serakki Mini.
+
+This file indexes the website's native Markdown references. The full game is in development. Desktop Editor MCP capabilities are separate from the browser previews.
+
+## Product
+
+- [Serakki homepage reference](https://serakki.dev/index.md): The full game, the original Serakki world, DLC, the Editor, Mini, community worlds, MCP and desktop downloads.
+
+## Downloads
+
+By downloading Serakki Mini, you agree to the license. Read it before downloading. [License · 2026-10-04](https://serakki.dev/license/index.md).
+
+- [Serakki Mini for Windows](https://github.com/marek-hanzal/serakki-game/releases/latest/download/serakki-mini-windows-x64.exe): EXE installer.
+- [Serakki Mini for Mac](https://github.com/marek-hanzal/serakki-game/releases/latest/download/serakki-mini-macos-arm64.dmg): DMG · Apple Silicon.
+- [Serakki Mini for Linux](https://github.com/marek-hanzal/serakki-game/releases/latest/download/serakki-mini-linux-x64.AppImage): AppImage.
+
+## Optional
+
+- [Complete website reference](https://serakki.dev/llms-full.txt): Homepage and both legal pages in one text response.
+- [License](https://serakki.dev/license/index.md): Application end user license agreement.
+- [Privacy Policy](https://serakki.dev/privacy/index.md): No tracking or telemetry. Local diagnostics and voluntary support explained.

@@ -1,1 +1,0 @@
-import{d as e}from"./index-BDKWG3xJ.js";import{t}from"./BoardDemo-4X2rI2RE.js";var n=e();function r(){return(0,n.jsx)(t,{demo:`animals`,poster:`/media/board-demo/animals-poster.webp`,alt:`A beagle puppy and a fawn side by side in Serakki.`})}export{r as H3};
