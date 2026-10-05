@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-B-hcVAMW.js";import{t}from"./BoardDemo-DaEH_5v2.js";var n=e();function r(){return(0,n.jsx)(t,{demo:`home-02`})}export{r as H1};

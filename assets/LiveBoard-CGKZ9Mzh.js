@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Cx0BB4qO.js";var t=e();function n({demo:e}){return(0,t.jsx)(`div`,{className:`live-board`,"data-ui":`LiveBoard`,children:(0,t.jsx)(`iframe`,{src:`/board-demo/?board=${e}`,title:`Play ${e}`})})}export{n as default};

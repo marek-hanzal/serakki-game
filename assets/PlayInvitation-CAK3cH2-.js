@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Cx0BB4qO.js";import{t}from"./BoardDemo-Cu2OuNbb.js";var n=e();function r(){return(0,n.jsx)(t,{demo:`home-01`})}export{r as H0};
