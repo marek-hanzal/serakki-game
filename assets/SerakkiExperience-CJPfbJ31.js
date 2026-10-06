@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Cx0BB4qO.js";import{t}from"./BoardDemo-l8dc0bIe.js";var n=e();function r(){return(0,n.jsx)(t,{demo:`gameplay`})}export{r as H0};
